@@ -1,6 +1,6 @@
 TERMS OF SERVICE AND END USER LICENSE AGREEMENT  
 for 1H PROFIT
-Effective Date: February 28, 2026
+Effective Date: March 19, 2026
 
 1. PARTIES AND SCOPE
 
@@ -36,7 +36,7 @@ Nothing in these Terms creates a partnership, agency, or joint venture between t
 
 3.4 Compatibility
 
-The Developer does not guarantee compatibility with future versions of third-party applications, Android OS updates, or device-specific configurations.
+The Developer does not guarantee compatibility with future versions of third-party applications, Android OS updates, or device-specific configurations or the availability and accuracy of third-party geolocation services (TomTom, MapTiler)
 
 4. SUBSCRIPTIONS, WITHDRAWAL AND UPDATES
 4.1 Billing
@@ -60,7 +60,7 @@ The App provides automated analytical estimates based on on-screen visual data p
 
 5.2 No Guarantee
 
-To the extent permitted by law, the App is provided “AS IS” and without warranties of any kind. The Developer does not guarantee accuracy, completeness, reliability, or financial outcomes resulting from use of the App.
+To the extent permitted by law, the App is provided “AS IS” and without warranties of any kind. The Developer does not guarantee accuracy, completeness, reliability, or financial outcomes resulting from use of the App. The User acknowledges that calculation accuracy depends on GPS signal quality and the legibility of on-screen text for OCR processing.
 
 5.3 Device Performance
 
