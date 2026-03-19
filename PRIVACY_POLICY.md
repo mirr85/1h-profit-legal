@@ -1,6 +1,6 @@
 PRIVACY POLICY 1H PROFIT
 
-Effective Date: February 25, 2026 Last Updated: February 25, 2026
+Effective Date: March 19, 2026 Last Updated: March 19, 2026
 
 Data Controller / Developer: MIROSLAV PAVLOVSKIJ (sole trader / JDG, Poland) NIP: 1182304751 Registered Address: POLAND, woj. MAZOWIECKIE, pow. Warszawa, gm. Warszawa, miejsc. Warszawa, ul. Maszewska, nr 33, lok. 34, 01-925 Privacy contact: dev.miroslaw.pawlowski.1985@gmail.com
 
@@ -46,7 +46,7 @@ The Developer does not receive screen images.
 
 B) Geocoding and Map Data
 
-Recognized address text may be sent to MapTiler to obtain geographic coordinates.
+Recognized address text or precise GPS coordinates may be sent to TomTom (tomtom.com) or MapTiler to obtain geographic coordinates and routing information.
 
 Obtained coordinates may be sent to GeoNames to retrieve a city name.
 
@@ -80,11 +80,13 @@ No external subscription validation server is used.
 
 Permissions Used
 
+Location (GPS) Purpose: Accessing precise device coordinates to calculate the actual distance to the order and provide navigation/routing logic. Legal basis: User consent (Article 6(1)(a) GDPR).
+
 Screen Capture (Media Projection) Purpose: Reading trip offer details for calculation. Legal basis: User consent (Article 6(1)(a) GDPR).
 
 Display Over Other Apps Purpose: Displaying calculated metrics and map preview overlay.
 
-Internet Access Internet access is strictly limited to performing geocoding requests via MapTiler and GeoNames and checking subscription status via Google Play Billing. No background data synchronization or telemetry occurs.
+Internet access is strictly limited to performing geocoding requests via TomTom, MapTiler and GeoNames and checking subscription status via Google Play Billing. No background data synchronization or telemetry occurs.
 
 No advertising SDKs are included. No third-party analytics SDKs are included.
 
@@ -109,6 +111,8 @@ Subscription status is retained only as required for subscription functionality.
 International Transfers
 
 Geocoding providers may process requests outside the European Economic Area under their own GDPR-compliant safeguards.
+
+TomTom Privacy Policy: https://www.tomtom.com/privacy/
 
 MapTiler Privacy Policy: https://www.maptiler.com/privacy/
 
